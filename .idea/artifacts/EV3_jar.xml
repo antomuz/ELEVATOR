@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EV3:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/EV3_jar</output-path>
+    <root id="archive" name="EV3.jar">
+      <element id="module-output" name="EV3" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../Program Files/leJOS EV3/lib/ev3/ev3classes.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
