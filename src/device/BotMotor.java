@@ -24,11 +24,11 @@ public class BotMotor {
 		switch (port) {
 			case 'A':
 				this.lejosMotor = Motor.A;
-				this.name = "pliersMotor";
+				this.name = "heightMotor2";
 				break;
 			case 'B':
 				this.lejosMotor = Motor.B;
-				this.name = "heightMotor";
+				this.name = "heightMotor1";
 				break;
 			case 'D':
 				this.lejosMotor = Motor.D;

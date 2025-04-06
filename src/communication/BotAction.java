@@ -7,11 +7,9 @@ package communication;
 public enum BotAction {
 	LeftRotationMovement,
 	RigthRotationMovement,
-	StopRotationMovement,
+	StopMovement,
 	AscendingMovement,
 	DescendingMovement,
-	StopHeightMovement,
-	StopPliersMovement,
 	DisconnectAction,
 	Waiting,
 }
